@@ -119,7 +119,6 @@ export default function Home() {
       setTimeout(() => {
         window.location.href = `/`
       }, 500)
-
     }
   }
 
